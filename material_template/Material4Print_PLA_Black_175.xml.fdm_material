@@ -10,7 +10,7 @@
         <version>1</version>  
         <GUID>96af188e-17d4-41ad-b882-cbc883687bde</GUID>
         <color_code>#333333</color_code>
-        <description>Nozzel 190-225°C, Heatbed 0-60°C, Cooling 100%. Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+        <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality. Manufacturer recommendation: Nozzel 190-225°C, Heatbed 0-60°C, Cooling 100%. </description>
         <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
     </metadata>
     <properties>
